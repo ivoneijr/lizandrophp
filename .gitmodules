@@ -1,0 +1,9 @@
+[submodule "app/Plugin/DebugKit"]
+	path = app/Plugin/DebugKit
+	url = https://github.com/cakephp/debug_kit.git
+[submodule "cakephp-plugin-boost_cake"]
+	path = cakephp-plugin-boost_cake
+	url = https://github.com/slywalker/cakephp-plugin-boost_cake.git
+[submodule "Plugin/Upload"]
+	path = Plugin/Upload
+	url = git://github.com/josegonzalez/cakephp-upload.git
